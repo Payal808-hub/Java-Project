@@ -6,6 +6,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and main");
         System.out.printf("Hello From branch1");
+        System.out.printf("Hello From branch1");
 
 
     }
